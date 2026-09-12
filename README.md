@@ -235,4 +235,4 @@ This repository serves as the official landing page for QuickTime. The software 
 **Get the most recent version of QuickTime today!**
 
 ---
-**Last updated:** 2026-09-12 16:55:43 UTC
+**Last updated:** 2026-09-12 19:07:12 UTC
